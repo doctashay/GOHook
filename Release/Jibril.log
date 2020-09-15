@@ -1,0 +1,25 @@
+﻿  checksum_crc.cpp
+  Client.cpp
+  DllMain.cpp
+  Interface.cpp
+  Menu.cpp
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,24): error C3861: '_mm_load_ps': identifier not found (compiling source file DllMain.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,3): error C3861: '_mm_store_ps': identifier not found (compiling source file DllMain.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,24): error C3861: '_mm_load_ps': identifier not found (compiling source file Interface.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,3): error C3861: '_mm_store_ps': identifier not found (compiling source file Interface.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,24): error C3861: '_mm_load_ps': identifier not found (compiling source file Client.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,3): error C3861: '_mm_store_ps': identifier not found (compiling source file Client.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,24): error C3861: '_mm_load_ps': identifier not found (compiling source file Menu.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\SDK.h(1051,3): error C3861: '_mm_store_ps': identifier not found (compiling source file Menu.cpp)
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(13,3): error C2065: '__m128': undeclared identifier
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(13,10): error C2146: syntax error: missing ';' before identifier 'root'
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(13,10): error C2065: 'root': undeclared identifier
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(13,29): error C3861: '_mm_load_ss': identifier not found
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(13,17): error C3861: '_mm_sqrt_ss': identifier not found
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(14,39): error C2065: 'root': undeclared identifier
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(20,3): error C2065: '__m128': undeclared identifier
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(20,10): error C2146: syntax error: missing ';' before identifier 'rroot'
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(20,10): error C2065: 'rroot': undeclared identifier
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(20,31): error C3861: '_mm_load_ss': identifier not found
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(20,18): error C3861: '_mm_rsqrt_ss': identifier not found
+D:\Backups\Documents 8-27-18\WeedCheats\WCInternal CSGO - Panorama UI\Jibril\Client.cpp(21,39): error C2065: 'rroot': undeclared identifier
