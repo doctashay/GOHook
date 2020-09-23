@@ -16,6 +16,11 @@
 *.dylib
 *.dll
 
+# Visual Studio Garbage
+*.filters
+*.user
+*.vcxproj
+
 # Fortran module files
 *.mod
 *.smod
